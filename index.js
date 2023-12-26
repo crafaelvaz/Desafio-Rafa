@@ -18,4 +18,4 @@ if(xpHeroi < 1000) {
     mensagem = "Imortal";
 }else {
     mensagem = "Radiante";
-}console.log('O herói ${nomeHeroi} possui ${xpHeroi} XP e é classificado como ${mensagem}.');
+}console.log(`O herói ${nomeHeroi} possui ${xpHeroi} XP e é classificado como ${mensagem}.`);
